@@ -17,8 +17,8 @@ This Results summary code component is designed to be easily integrated into you
 ### Screenshot
 ![](/src/assets/preview.png)
 ### Links
-- Solution URL: [Github repository](https://github.com/Hemazyn/social-profile-ui)
-- Live Site URL: [Netlify Link](https://hemazyn-profile-ui.netlify.app/)
+- Solution URL: [Github repository](https://github.com/Hemazyn/results-summary)
+- Live Site URL: [Netlify Link](https://results-ui.netlify.app/)
 ## My process
 ### Built with
 - Semantic HTML5 markup
